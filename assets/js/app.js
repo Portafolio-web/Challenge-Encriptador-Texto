@@ -5,7 +5,7 @@ document.getElementById('encrypt-btn').addEventListener('click', function() {
         document.getElementById('result').innerText = result;
         document.getElementById('copy-btn').style.display = 'inline'; // Muestra el botón de copiar
 
-        // Ocultar h1, img y p
+        // Ocultar el encabezado, imagen y párrafo
         document.getElementById('header-text').style.display = 'none';
         document.getElementById('header-image').style.display = 'none';
         document.getElementById('result').style.display = 'block'; // Asegúrate de mostrar el resultado
@@ -19,7 +19,7 @@ document.getElementById('decrypt-btn').addEventListener('click', function() {
         document.getElementById('result').innerText = result;
         document.getElementById('copy-btn').style.display = 'none'; // Oculta el botón de copiar
 
-        // Mostrar h1, img y p
+        // Mostrar el encabezado, imagen y párrafo
         document.getElementById('header-text').style.display = 'block';
         document.getElementById('header-image').style.display = 'block';
     }
