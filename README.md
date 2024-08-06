@@ -1,3 +1,5 @@
+<h1>Sobre el desafío</h1>
+
 ![Captura](https://github.com/user-attachments/assets/b92f5254-33cb-4222-9946-d8d99d2978a7) ![Captura2](https://github.com/user-attachments/assets/d1971f85-b815-469b-a011-323eed7952f6)
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
