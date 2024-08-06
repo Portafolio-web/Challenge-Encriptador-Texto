@@ -20,8 +20,9 @@ document.getElementById('decrypt-btn').addEventListener('click', function() {
         document.getElementById('copy-btn').style.display = 'none'; // Oculta el botón de copiar
 
         // Mostrar el encabezado, imagen y párrafo
-        document.getElementById('header-text').style.display = 'block';
-        document.getElementById('header-image').style.display = 'block';
+        document.getElementById('header-text').style.display = 'none'; // Oculta el encabezado
+        document.getElementById('header-image').style.display = 'none'; // Oculta la imagen
+        document.getElementById('result').style.display = 'block'; // Asegúrate de mostrar el resultado
     }
 });
 
