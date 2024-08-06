@@ -40,6 +40,7 @@ body{
 
 .columna-izquierda{
     margin-bottom: 80px;
+    padding-bottom: 80px;
     border-radius: 20px;
     border: 2px solid var(--color-terciario);
     background-color: rgba(255, 255, 255, 0.8); /* Color #ffffff con 80% de opacidad */
@@ -79,13 +80,52 @@ body{
     outline: none;
 }
 
+#encrypt-btn{
+    background-color: var(--color-secundario);
+    color: var(--color-primario);
+    width: 45%;
+    height: 10%;
+    border-radius: 15px;
+    border: none;
+    margin-right: 5px;
+}
+
+#decrypt-btn{
+    color: var(--color-secundario);
+    width: 45%;
+    height: 10%;
+    border-radius: 15px;
+    border: 1.5px solid #0A3871;
+    margin-left: 5px;
+}
+#copy-btn{
+    color: var(--color-secundario);
+    width: 70%;
+    height: 10%;
+    border-radius: 15px;
+    border: 1.5px solid #0A3871;
+    margin-left: 5px;
+}
+
+#encrypt-btn:focus {
+    outline: none; /* Elimina el borde negro al hacer clic */
+  }
+#decrypt-btn:focus {
+    outline: none; /* Elimina el borde negro al hacer clic */
+  }
+  #copy-btn:focus {
+    outline: none; /* Elimina el borde negro al hacer clic */
+  }
+
+  
 .columna-derecha{
     margin-bottom: 80px;
+    padding-bottom: 80px;
     border-radius: 20px;
     border: 2px solid var(--color-terciario);
     background-color: rgba(255, 255, 255, 0.8); /* Color #ffffff con 80% de opacidad */
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); 
-    height: 600px;
+    height: 700px;
 }
 .img-fluid{
     align-items: center;
