@@ -17,9 +17,9 @@
 
 <h4><b>Requisitos:</b></h4>
 <ol>
-  <li>1. Debe funcionar solo con letras minúsculas</li>
-  <li>2. No deben ser utilizados letras con acentos ni caracteres especiales</li>
-  <li>3. Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.</li>
+  <li> Debe funcionar solo con letras minúsculas</li>
+  <li> No deben ser utilizados letras con acentos ni caracteres especiales</li>
+  <li> Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.</li>
 </ol>
 
 ![Captura5](https://github.com/user-attachments/assets/1945677f-c71a-477b-9123-20ade786460e)
@@ -27,8 +27,8 @@
 
 <h4><b>La página debe tener campos para:</b></h4>
 <ol>
-  <li>1. Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.</li>
-  <li>2. El resultado debe ser mostrado en la pantalla.</li>
+  <li> Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.</li>
+  <li> El resultado debe ser mostrado en la pantalla.</li>
 </ol>
 
 ![Captura6](https://github.com/user-attachments/assets/1ea02856-a897-4332-926a-595be9e262c9) ![Captura7](https://github.com/user-attachments/assets/e69b1efc-d23c-4ba1-abff-64181d04cb16)
