@@ -4,26 +4,32 @@
 
 <h4><b>Las "llaves" de encriptación que utilizaremos son las siguientes:</b></h4>
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+<ul>
+  <li>La letra "e" es convertida para "enter"</li>
+  <li>La letra "i" es convertida para "imes"</li>
+  <li>La letra "a" es convertida para "ai"</li>
+  <li>La letra "o" es convertida para "ober"</li>
+  <li>La letra "u" es convertida para "ufat"</li>
+</ul>
 
 ![Captura4](https://github.com/user-attachments/assets/83c57a8a-9a2a-443b-8a36-1541d85109e3)
 <p></p>
 
 <h4><b>Requisitos:</b></h4>
-1. Debe funcionar solo con letras minúsculas
-2. No deben ser utilizados letras con acentos ni caracteres especiales
-3. Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+<ul>
+  <li>1. Debe funcionar solo con letras minúsculas</li>
+  <li>2. No deben ser utilizados letras con acentos ni caracteres especiales</li>
+  <li>3. Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.</li>
+</ul>
 
 ![Captura5](https://github.com/user-attachments/assets/1945677f-c71a-477b-9123-20ade786460e)
 <p></p>
 
 <h4><b>La página debe tener campos para:</b></h4>
-1. Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
-2. El resultado debe ser mostrado en la pantalla.
+<ul>
+  <li>1. Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.</li>
+  <li>2. El resultado debe ser mostrado en la pantalla.</li>
+</ul>
 
 ![Captura6](https://github.com/user-attachments/assets/1ea02856-a897-4332-926a-595be9e262c9) ![Captura7](https://github.com/user-attachments/assets/e69b1efc-d23c-4ba1-abff-64181d04cb16)
 <p></p>
