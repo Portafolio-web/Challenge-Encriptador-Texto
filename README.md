@@ -14,6 +14,7 @@
 
 ![Captura4](https://github.com/user-attachments/assets/83c57a8a-9a2a-443b-8a36-1541d85109e3)
 <p></p>
+<p></p>
 
 <h4><b>Requisitos:</b></h4>
 <ol>
@@ -24,6 +25,7 @@
 
 ![Captura5](https://github.com/user-attachments/assets/1945677f-c71a-477b-9123-20ade786460e)
 <p></p>
+<p></p>
 
 <h4><b>La página debe tener campos para:</b></h4>
 <ol>
@@ -33,11 +35,15 @@
 
 ![Captura6](https://github.com/user-attachments/assets/1ea02856-a897-4332-926a-595be9e262c9) ![Captura7](https://github.com/user-attachments/assets/e69b1efc-d23c-4ba1-abff-64181d04cb16)
 <p></p>
+<p></p>
 
 <h4><b>Extras:</b></h4>
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+<p></p>
+<p></p>
 
 ![Captura8](https://github.com/user-attachments/assets/79300382-2111-4524-994f-f85d17c7d495)
+<p></p>
 <p></p>
 
 <h4><b>Responsividad @Mediaquery</b></h4>
