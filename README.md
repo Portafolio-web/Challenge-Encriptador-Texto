@@ -12,6 +12,7 @@ La letra "u" es convertida para "ufat"
 
 ![Captura4](https://github.com/user-attachments/assets/83c57a8a-9a2a-443b-8a36-1541d85109e3)
 <p></p>
+
 <h4><b>Requisitos:</b></h4>
 1. Debe funcionar solo con letras minúsculas
 2. No deben ser utilizados letras con acentos ni caracteres especiales
