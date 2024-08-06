@@ -13,7 +13,6 @@ body{
     color: var(--color-secundario);
     height: 100%;
     box-sizing: border-box;
-/
 }
 .header{
     padding: 2% 0% 0% 3%;
@@ -24,8 +23,6 @@ body{
     padding: 0%;
 }
 
-
-
 .section{
     padding: 2% 0% 1% 1%;
 }
@@ -34,10 +31,6 @@ body{
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
 
 .columna-izquierda{
     margin-bottom: 80px;
@@ -83,7 +76,7 @@ body{
     border: 2px solid var(--color-terciario);
     background-color: var(--color-terciario);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
-    
+    height: 600px;
 }
 
 
